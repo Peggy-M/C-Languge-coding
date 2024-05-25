@@ -1,0 +1,12 @@
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/data_type.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/help_data.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/sizeof_use.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/stack_space.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/void_data.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/global_variable.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/indirectAssignment.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/fomrLevelOneToLevelTwo.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/Input_outputCharacteristics.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/stringOperations.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

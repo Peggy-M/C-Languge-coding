@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/global_variable.dir/variable_and_memory_distribute/global_variable.c.o -o global_variable.exe -Wl,--out-implib,libglobal_variable.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

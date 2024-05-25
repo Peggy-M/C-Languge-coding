@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/sizeof_use.dir/variable_and_memory_distribute/sizeof_use.c.o -o sizeof_use.exe -Wl,--out-implib,libsizeof_use.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

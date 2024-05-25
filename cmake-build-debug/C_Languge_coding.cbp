@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Languge_coding"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/data_type.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_type"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_type/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/data_type.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_type/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="help_data">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/help_data.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 help_data"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="help_data/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/help_data.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 help_data/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sizeof_use">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/sizeof_use.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 sizeof_use"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sizeof_use/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/sizeof_use.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 sizeof_use/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_space">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/stack_space.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack_space"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stack_space/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/stack_space.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 stack_space/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="void_data">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/void_data.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 void_data"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="void_data/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/void_data.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 void_data/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="global_variable">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/global_variable.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 global_variable"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="global_variable/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/global_variable.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 global_variable/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="indirectAssignment">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/indirectAssignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 indirectAssignment"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="indirectAssignment/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/indirectAssignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 indirectAssignment/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fomrLevelOneToLevelTwo">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/fomrLevelOneToLevelTwo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 fomrLevelOneToLevelTwo"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fomrLevelOneToLevelTwo/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/fomrLevelOneToLevelTwo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 fomrLevelOneToLevelTwo/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Input_outputCharacteristics">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Input_outputCharacteristics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 Input_outputCharacteristics"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Input_outputCharacteristics/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Input_outputCharacteristics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 Input_outputCharacteristics/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringOperations">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/stringOperations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 stringOperations"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringOperations/fast">
+				<Option output="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/stringOperations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 stringOperations/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/IndirectAssignment.c">
+			<Option target="indirectAssignment"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/Input_outputCharacteristics.c">
+			<Option target="Input_outputCharacteristics"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/data_type.c">
+			<Option target="data_type"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/fomLevelOneToLevelTwo.c">
+			<Option target="fomrLevelOneToLevelTwo"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/global_variable.c">
+			<Option target="global_variable"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/help_data.c">
+			<Option target="help_data"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/sizeof_use.c">
+			<Option target="sizeof_use"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/stack_space.c">
+			<Option target="stack_space"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/stringOperations.c">
+			<Option target="stringOperations"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/variable and memory distribute/void_data.c">
+			<Option target="void_data"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/Workspace/code/c/C-Languge-coding/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

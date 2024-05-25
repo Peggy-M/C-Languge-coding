@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/void_data.dir/variable_and_memory_distribute/void_data.c.o -o void_data.exe -Wl,--out-implib,libvoid_data.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

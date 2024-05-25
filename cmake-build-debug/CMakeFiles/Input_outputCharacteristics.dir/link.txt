@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/Input_outputCharacteristics.dir/variable_and_memory_distribute/Input_outputCharacteristics.c.o -o Input_outputCharacteristics.exe -Wl,--out-implib,libInput_outputCharacteristics.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

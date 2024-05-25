@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/stack_space.dir/variable_and_memory_distribute/stack_space.c.o -o stack_space.exe -Wl,--out-implib,libstack_space.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

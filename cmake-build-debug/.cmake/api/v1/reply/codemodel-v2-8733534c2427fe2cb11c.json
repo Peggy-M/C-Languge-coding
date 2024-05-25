@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_Languge_coding",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Input_outputCharacteristics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Input_outputCharacteristics-Debug-6098bb42c2eb84e35fda.json",
+					"name" : "Input_outputCharacteristics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_type::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_type-Debug-27641dbb5b9e1a6b79f1.json",
+					"name" : "data_type",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fomrLevelOneToLevelTwo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fomrLevelOneToLevelTwo-Debug-e51c34d852a650d49cab.json",
+					"name" : "fomrLevelOneToLevelTwo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "global_variable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-global_variable-Debug-e11ebf10f227ca32127d.json",
+					"name" : "global_variable",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "help_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-help_data-Debug-8d80523b28c3da8e5962.json",
+					"name" : "help_data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indirectAssignment::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indirectAssignment-Debug-38caecd4372c4e4e1f47.json",
+					"name" : "indirectAssignment",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sizeof_use::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sizeof_use-Debug-a323340e8fdc666c5d7b.json",
+					"name" : "sizeof_use",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_space::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_space-Debug-0b5bafe89387d7fd5852.json",
+					"name" : "stack_space",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringOperations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringOperations-Debug-f76d2338a59851293be9.json",
+					"name" : "stringOperations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "void_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-void_data-Debug-854e75a027e9abb2f386.json",
+					"name" : "void_data",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/e/Workspace/code/c/C-Languge-coding/cmake-build-debug",
+		"source" : "/cygdrive/e/Workspace/code/c/C-Languge-coding"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/fomrLevelOneToLevelTwo.dir/variable_and_memory_distribute/fomLevelOneToLevelTwo.c.o -o fomrLevelOneToLevelTwo.exe -Wl,--out-implib,libfomrLevelOneToLevelTwo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
